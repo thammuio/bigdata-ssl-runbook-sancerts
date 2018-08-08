@@ -1,0 +1,5 @@
+clusterlake-uat-hbase-1to50.hadoop.company.com
+clusterlake-uat-worker-1to50.hadoop.company.com
+clusterlake-uat-allmaster-1to10.hadoop.company.com
+clusterflow-uat-kafka-1to20.hadoop.company.com
+clusterflow-uat-nifi-1to20.hadoop.company.com

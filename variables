@@ -1,0 +1,10 @@
+#!/bin/bash
+#Update these same valuses in run-on-other.sh
+pfx_prefix=""
+sancn=$PWD/san-cn
+adnodes=$PWD/ad-nodes
+strpass=company2017@
+basedir=$PWD
+javahome=/usr/jdk64/latest
+secbase=/bigdata/security
+tlsdir=/bigdata/security/$sancnshortname/tls
