@@ -1,11 +1,8 @@
 # What Do I DO
-
 This runbook is to keystore, truststore, pem, ctr and other SSL Releated Files
-# To Request SSL Certs for any host
+Request SSL Certs for any host
 
-
-
-# Runbook Contents
+## Runbook Contents
 bigdata-ssl-runbook-sancerts
 	ad-certs
 	ad-nodes
